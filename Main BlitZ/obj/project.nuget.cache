@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZBVz05PD+8/c/a4HALl+5/WSrYHbvlP8VmvGxyIBmrRNK6tnhz71k4rT7wnKy7N3QlfeaC3CbvJi+gOD6Sd2Q==",
+  "success": true,
+  "projectFilePath": "/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/Main BlitZ.csproj",
+  "expectedPackageFiles": [
+    "/home/konstantin/.nuget/packages/consoletables/2.6.1/consoletables.2.6.1.nupkg.sha512",
+    "/home/konstantin/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

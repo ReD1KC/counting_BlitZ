@@ -1,0 +1,36 @@
+/home/konstantinch/Documents/Proga/C#/Main BlitZ/Main BlitZ/bin/Debug/net8.0/Main BlitZ
+/home/konstantinch/Documents/Proga/C#/Main BlitZ/Main BlitZ/bin/Debug/net8.0/Main BlitZ.deps.json
+/home/konstantinch/Documents/Proga/C#/Main BlitZ/Main BlitZ/bin/Debug/net8.0/Main BlitZ.runtimeconfig.json
+/home/konstantinch/Documents/Proga/C#/Main BlitZ/Main BlitZ/bin/Debug/net8.0/Main BlitZ.dll
+/home/konstantinch/Documents/Proga/C#/Main BlitZ/Main BlitZ/bin/Debug/net8.0/Main BlitZ.pdb
+/home/konstantinch/Documents/Proga/C#/Main BlitZ/Main BlitZ/bin/Debug/net8.0/ConsoleTables.dll
+/home/konstantinch/Documents/Proga/C#/Main BlitZ/Main BlitZ/obj/Debug/net8.0/Main BlitZ.csproj.AssemblyReference.cache
+/home/konstantinch/Documents/Proga/C#/Main BlitZ/Main BlitZ/obj/Debug/net8.0/Main BlitZ.GeneratedMSBuildEditorConfig.editorconfig
+/home/konstantinch/Documents/Proga/C#/Main BlitZ/Main BlitZ/obj/Debug/net8.0/Main BlitZ.AssemblyInfoInputs.cache
+/home/konstantinch/Documents/Proga/C#/Main BlitZ/Main BlitZ/obj/Debug/net8.0/Main BlitZ.AssemblyInfo.cs
+/home/konstantinch/Documents/Proga/C#/Main BlitZ/Main BlitZ/obj/Debug/net8.0/Main BlitZ.csproj.CoreCompileInputs.cache
+/home/konstantinch/Documents/Proga/C#/Main BlitZ/Main BlitZ/obj/Debug/net8.0/Main BlitZ.csproj.CopyComplete
+/home/konstantinch/Documents/Proga/C#/Main BlitZ/Main BlitZ/obj/Debug/net8.0/Main BlitZ.dll
+/home/konstantinch/Documents/Proga/C#/Main BlitZ/Main BlitZ/obj/Debug/net8.0/refint/Main BlitZ.dll
+/home/konstantinch/Documents/Proga/C#/Main BlitZ/Main BlitZ/obj/Debug/net8.0/Main BlitZ.pdb
+/home/konstantinch/Documents/Proga/C#/Main BlitZ/Main BlitZ/obj/Debug/net8.0/Main BlitZ.genruntimeconfig.cache
+/home/konstantinch/Documents/Proga/C#/Main BlitZ/Main BlitZ/obj/Debug/net8.0/ref/Main BlitZ.dll
+/home/konstantinch/Documents/Proga/C#/Main BlitZ/Main BlitZ/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/bin/Debug/net8.0/Main BlitZ
+/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/bin/Debug/net8.0/Main BlitZ.deps.json
+/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/bin/Debug/net8.0/Main BlitZ.runtimeconfig.json
+/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/bin/Debug/net8.0/Main BlitZ.dll
+/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/bin/Debug/net8.0/Main BlitZ.pdb
+/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/bin/Debug/net8.0/ConsoleTables.dll
+/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/obj/Debug/net8.0/Main BlitZ.csproj.AssemblyReference.cache
+/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/obj/Debug/net8.0/Main BlitZ.GeneratedMSBuildEditorConfig.editorconfig
+/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/obj/Debug/net8.0/Main BlitZ.AssemblyInfoInputs.cache
+/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/obj/Debug/net8.0/Main BlitZ.AssemblyInfo.cs
+/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/obj/Debug/net8.0/Main BlitZ.csproj.CoreCompileInputs.cache
+/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/obj/Debug/net8.0/Main BlitZ.csproj.CopyComplete
+/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/obj/Debug/net8.0/Main BlitZ.dll
+/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/obj/Debug/net8.0/refint/Main BlitZ.dll
+/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/obj/Debug/net8.0/Main BlitZ.pdb
+/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/obj/Debug/net8.0/Main BlitZ.genruntimeconfig.cache
+/home/konstantin/_sd/_it/C#/RiderProjects/counting_BlitZ/Main BlitZ/obj/Debug/net8.0/ref/Main BlitZ.dll
