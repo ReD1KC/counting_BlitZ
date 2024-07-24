@@ -1,1 +1,3 @@
-Small program for counting in game named "Blitz"
+# counting_Blitz
+
+Simple console App for counting points in game "Blitz"
